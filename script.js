@@ -11,6 +11,10 @@ const posts = [
      title: "BCAA",
      content: "O BCAA é uma sigla para Branched-Chain Amino Acids, que, em tradução literal, significa cadeia ramificada de aminoácidos. Ele é um suplemento que funciona como uma fonte de aminoácidos, os quais, por sua vez, são compostos capazes de desempenhar diferentes funções no organismo."
  },   
+ {
+    title: "Albumina",
+    content: "Em linhas gerais, a albumina tem como principal finalidade contribuir para o ganho de massa muscular. Isso se dá justamente pelo elevado valor proteico."
+ },
 ];
 
 const envelope = document.getElementById("posts");
